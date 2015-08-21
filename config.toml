@@ -1,3 +1,21 @@
 baseurl = "http://weberjm.github.io"
 languageCode = "en-us"
-title = "James Weber Blog"
+title = "James Weber"
+contentdir = "content"
+publishdir = "public"
+builddrafts = false
+canonifyurls = true
+author = "James Weber"
+
+[indexes]
+   category = "categories"
+   tag = "tags"
+[Params]
+  AuthorName = "James"
+  github = "weberjm"
+  twitter = "weberjm"
+  email = "weberjm@gmail.com"
+  description = "Typesafe"
+  linkedin = "weberjm"
+  cover = "/images/background-cover.jpg"
+  logo = "/images/logo.jpg"
