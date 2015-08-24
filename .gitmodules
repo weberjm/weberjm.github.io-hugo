@@ -1,3 +1,6 @@
 [submodule "public"]
 	path = public
-	url = git@github.com:weberjm/weberjm.github.io.git
+	url = https://github.com/weberjm/weberjm.github.io.git
+[submodule "themes"]
+	path = themes
+	url = https://github.com/spf13/hugoThemes.git
