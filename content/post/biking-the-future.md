@@ -1,12 +1,19 @@
 +++
-date = "2015-06-15T09:40:58+02:00"
-draft = true
-title = "Comments on Biking"
+author = ""
+comments = true
+date = "2015-08-26T16:06:34+02:00"
+draft = false
+image = "/images/camel_bike.jpg"
+menu = ""
+share = true
+slug = "biking-the-future"
+tags = ["tag1", "tag2"]
+title = "Biking: the Future?"
 
 +++
 
-[ Bike Highways are not America's Future... ![Biking](https://38.media.tumblr.com/tumblr_mzg4ig9VX71qzo6vv_og.jpg)](http://qz.com/166260/elevated-bike-highways-are-not-americas-future-nor-should-they-be/)
-=================
+[From Quartz](http://qz.com/166260/elevated-bike-highways-are-not-americas-future-nor-should-they-be/)
+
 
 > Bicycles, he says, provide an important balance between the pace of cars and of pedestrians. They slow down traffic, and invite foot traffic, and can even [drum up business and increase property values](http://www.ssti.us/Events/the-positive-link-between-bike-and-pedestrian-street-improvements-and-economic-activity-in-nyc/).
 
